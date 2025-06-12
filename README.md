@@ -32,12 +32,12 @@ This project presents a Tableau-based interactive dashboard developed to analyze
 - CAFV eligibility data helps support state and federal incentive planning  
 - The dashboard supports data-driven decision-making for analysts, policymakers, and EV industry stakeholders
 
-## Dashboard  
-
-![image](https://github.com/user-attachments/assets/ae3ead4e-7c00-4af4-bbb3-2fc1d2adf043)
 
 
-![EV Dashboard](https://github.com/shivam5983/ELectric-Vehicle-Data-Analysis/blob/main/Dashboard.png)
+
+
+
+
 
 ## 🚀 How to Use
 
